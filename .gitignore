@@ -1,0 +1,8 @@
+
+.cache/
+.idea/
+.tmp/
+*.pyc
+*py,cover
+
+
